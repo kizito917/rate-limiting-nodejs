@@ -4,13 +4,13 @@
 
 ### Description
 
-This repository contains the codebase that showcases the practical approach to rate limiting api calls in a Node/Express application.
+This repository contains the complete working codebase that showcases the practical approach to rate limiting api calls in a Node/Express application.
 
 ---
 
 ### 💻 Source Code
 
-🔗 [Source Code for this tutorial](https://github.com/kizito917/react-lazy-load)
+🔗 [Source Code for this tutorial](https://github.com/kizito917/rate-limiting-nodejs)
 
 ---
 
